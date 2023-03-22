@@ -1,0 +1,17 @@
+.main__wrapper {
+  padding: 30px;
+}
+
+.title__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title__wrapper h1 {
+  color: grey;
+}
+
+.table__wrapper {
+  color: lightblue;
+}
