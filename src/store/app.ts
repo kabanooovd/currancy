@@ -1,6 +1,6 @@
 
 import { makeAutoObservable } from "mobx";
-import { LoadingMode } from "../types";
+import { LoadingMode } from "./app-types";
 
 class AppCondition {
   isLoadingMode: LoadingMode = null;
